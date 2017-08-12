@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extention-starter",
+  "name": "chrome-plugin",
   "version": "0.0.1",
   "description": "A starter kit for chrome extensions.",
   "main": "index.js",
@@ -11,18 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eanplatter/chrome-extention-starter.git"
+    "url": "git+https://github.com/sanyamagrawal/chrome-plugin.git"
   },
-  "keywords": [
-    "3",
-    "Strand",
-    "Code",
-    "extension"
-  ],
-  "author": "Ean Platter <eanplatter@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/eanplatter/chrome-extention-starter/issues"
-  },
-  "homepage": "https://github.com/eanplatter/chrome-extention-starter#readme"
+  "license": "MIT"
 }

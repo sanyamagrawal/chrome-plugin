@@ -1,4 +1,4 @@
-# React Chrome Extension Starter
+# React Chrome Plugin
 A starter kit for building chrome extensions with React.
 
 # Setup
